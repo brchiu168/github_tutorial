@@ -7,4 +7,3 @@ Functional changes:
     CASE-122: Add Hello Moon
     KFSB-75:  Best Commit ever
 
-test
