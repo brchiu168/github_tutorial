@@ -7,3 +7,4 @@ Functional changes:
     CASE-122: Add Hello Moon
     KFSB-75:  Best Commit ever
     CASE-117: Desi Arnaz
+    CASE-124: Hello
