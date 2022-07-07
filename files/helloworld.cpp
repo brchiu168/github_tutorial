@@ -7,6 +7,7 @@ int main()
 {
   cout << "Hello";
   cout << "Hello Moon";
+  cout << "I Love Lucy";
 
   return 0;
 }
